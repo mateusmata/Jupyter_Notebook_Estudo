@@ -11,4 +11,5 @@ No momento os seguintes arquivos estão disponíveis:
 | COVID-19_BR_24-03.ipynb | Abandonado | Graficos dos casos de COVID_19 no Estado do RJ até o dia 24/03 |
 | Pandas_01_GoT.ipynb | Abandonado | Primeiro arquivo criado. Usado para praticar o pandas |
 | Pandas_02_TMDB.ipynb | Arquivado | Usado para praticar o pandas |
-|[corona_23-04_seaborn.ipynb](https://github.com/mateusmata/Jupyter_Notebook_Estudo/blob/master/Arquivos%20ipynb/corona_23-04_seaborn.ipynb) | Em uso | Graficos dos casos de COVID_19 no Estado do RJ até o dia 23/04 |
+|[corona_23-04_seaborn.ipynb](https://github.com/mateusmata/Jupyter_Notebook_Estudo/blob/master/Arquivos%20ipynb/corona_23-04_seaborn.ipynb) | finalizado | Graficos dos casos de COVID_19 no Estado do RJ até o dia 23/04 |
+| [IMDB_ratings_Pessoal.ipynb](https://github.com/mateusmata/Jupyter_Notebook_Estudo/blob/master/Arquivos%20ipynb/IMDB_ratings_Pessoal.ipynb) | Em  uso | Consolidar o conhecimento com a biblioteca do pandas |
